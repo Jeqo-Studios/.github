@@ -1,5 +1,5 @@
 # Jeqo Studios
-Jeqo Studios is a small team of developers with the goal of creating high-quality, premium, and open-source PaperMC and Bukkit plugins and various Minecraft-related resources such as resource packs.
+Jeqo Studios is a small team of developers with the goal of creating high-quality, premium, and open-source SpigotMC and Bukkit plugins and various Minecraft-related resources such as resource packs.
 
 **Quickstart:**
 - Check out [Jeqo's website](https://jeqo.net/) for guides, resources, and more!
